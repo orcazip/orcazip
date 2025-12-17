@@ -1,4 +1,4 @@
-<img src="https://file.garden/aALmCdKQMThvFM_K/Tumblr_l_26538391348260.gif">
+<img class="image-center" img src="https://file.garden/aALmCdKQMThvFM_K/Tumblr_l_26538391348260.gif">
 
 <!--
 **orcazip/orcazip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
