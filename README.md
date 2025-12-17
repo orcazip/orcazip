@@ -1,4 +1,5 @@
-<div class="grid-container">
+<div class=""container bg-faded border-0 rounded-0 mx-auto text-center" style="max-width:370px; padding:17px; font-size:16px; font-weight:lighter; letter-spacing:0.3px;">
+  
   <img src="https://file.garden/aALmCdKQMThvFM_K/Tumblr_l_26538391348260.gif" alt="Description of image">
 </div>
 <p style="text-center;" class="mb-4 text-muted text-center">im denki sai</p>
