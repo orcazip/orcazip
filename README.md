@@ -4,7 +4,7 @@
 
 </div>
 
- <p <img src="https://file.garden/aALmCdKQMThvFM_K/IMG_3511.gif"> /p>
+ <p <img src="https://file.garden/aALmCdKQMThvFM_K/IMG_3511.gif">
 
   
 
